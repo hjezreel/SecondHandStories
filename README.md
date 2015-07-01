@@ -1,0 +1,2 @@
+# SecondHandStories
+My first repository. 
