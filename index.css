@@ -1,0 +1,134 @@
+
+html {
+}
+
+header {
+	color: black;
+	margin: 0;
+	padding: none;
+}
+
+h1 {
+	font-family: 'Anton', sans-serif;
+	text-align: left;
+	font-size: 90px;
+	margin: 0px;
+	color: black;
+	padding:0px;
+	border: 0px;
+}
+
+.kcproduction {
+	padding: 0px;
+	text-align: left;
+	color: black;
+	margin: 0px;
+  font-family: 'Satisfy', cursive;
+  
+}
+
+/************ Links Style ***************/
+
+
+.tint:hover {
+	opacity: .5;
+	width:100%;
+	display: block;
+	box-shadow: #000 0em 0em 0em
+}
+
+.text:hover {
+	visibility: visible;
+	bottom: 30px;
+}
+
+table{
+  font-family: 'Bowlby One SC', cursive;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 50px;
+}
+
+a{
+	color:black;
+	text-decoration: none;
+}
+
+a:visited: {
+	color: grey;
+	text-decoration: none;
+}
+
+a:hover{
+	color: grey;
+	text-decoration: none;
+}
+
+.links {
+	color: pink;
+}
+
+/************ Body Style ***************/
+
+body {
+	margin: 0px;
+}
+
+.titles {
+	font-size: 60px;
+  	color: grey;
+	text-align: left;
+	margin-bottom: -20px;
+	border: 0px;
+	padding: 0px;
+  	font-family: 'Anton', sans-serif;
+}
+
+iframe {
+	display: left;
+  margin-top: 0px;
+	margin-right: auto;
+	margin-left: auto;	
+	background-color: grey;
+	padding: 5px;
+  border:0px;
+}
+
+p {
+	color: black;
+	font-family: 'Satisfy', cursive;
+	display: block;
+	margin-right: 20%;
+	margin-left: 20%;
+  text-align: center;
+  font-size: 15px;
+}
+
+.descriptiveparagraphs {
+  border-style: solid;
+  border-width: 1px
+}
+
+/************ Footer Style ***************/
+footer {
+	margin-top: 70px;
+	background-color: #696969;
+}
+img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+div {
+	width: 100%;
+}
+
+.background {
+  background-color: white;
+}
+
+.altbackground {
+  background-color: #FFFF66;
+}
