@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>Secondhand Stories</title>
+        <link href='https://fonts.googleapis.com/css?family=Roboto:100' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Anton|Bowlby+One+SC|Satisfy' rel='stylesheet' type='text/css'>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+    </head>
+  
+    <body>
+        <div>
+            <h1 class="title">Secondhand Stories</h1>
+            <nav style= "position: center; right: 5px; top: 20px" class= "toplinks">
+               <li><a href="about.html">About</a></li> 
+               <li><a href="contact.html">Contact</a></li> 
+            </nav>
+        </div>
+        <div class="wrap">
+            <header>
+                <label for="slide-1-trigger">Skipping Fish Boat School</label>
+                <label for="slide-2-trigger">Daniel Chaffin Furniture</label>
+                <label for="slide-3-trigger">Hound Dog Press</label>
+                <label for="slide-4-trigger">Eco-Cell</label>
+                <label for="slide-5-trigger">Built From Bourbon</label>
+            </header>
+        
+            <input id="slide-1-trigger" type="radio" name="slides" checked>
+                <section class="slide slide-one">
+                <iframe src="https://player.vimeo.com/video/36092340?title=0&byline=0&portrait=0" width=95% height=95% frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+                </section>
+            <input id="slide-2-trigger" type="radio" name="slides">
+                <section class="slide slide-two">
+                <iframe src="https://player.vimeo.com/video/46038904" width=95% height=95% frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+                </section>
+            <input id="slide-3-trigger" type="radio" name="slides">
+                <section class="slide slide-three">
+                <iframe src="https://player.vimeo.com/video/46889702" width=95% height=95% frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+                </section>
+            <input id="slide-4-trigger" type="radio" name="slides">
+                <section class="slide slide-four">
+                <iframe src="https://player.vimeo.com/video/71577226?title=0&byline=0&portrait=0" width=95% height=95% frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+                </section>
+             <input id="slide-5-trigger" type="radio" name="slides">
+                <section class="slide slide-five">
+                <iframe src="https://player.vimeo.com/video/117537125?title=0&byline=0&portrait=0" width=95% height=95% frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+                </section>
+        </div>
+    </body>
+    <footer>
+        <footer>
+			<div class="kclogo">
+				<a href="http://kertiscreative.com">
+					<img style="height:60px; width:60px;" src= "img/KERTISCREATIVELOGO.png">
+				</a>
+			</div>
+			<div>
+				<a href="http://twitter.com/kertiscreative"><img src="img/twitter.png" alt="Twitter Logo" class="social-icon"></a>
+				<a href="http://www.facebook.com/kertiscreative"><img src="img/fbook.png" alt="Facebook Logo" class="social-icon"></a>
+				<a href="http://vimeo.com/kertiscreative/videos"><img src="img/vimeo.png" alt="Vimeo Logo" class="social-icon"></a>
+			</div>
+			<div>
+			    <p class= "copy"> &copy; 2015 Kertis Creative | sayhello@kertiscreative.com | 502.550.1549</p>
+			</div>
+		</footer>
+    </footer>
+    
+</html>
